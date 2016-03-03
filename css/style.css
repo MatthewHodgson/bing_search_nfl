@@ -1,0 +1,14 @@
+body {
+  padding-top: 50px;
+}
+
+img.demo {
+  width:100%;
+  padding:3px;
+  border:1px solid #ccc;
+}
+
+.row{
+  margin-top: 30px;
+  margin-bottom: 30px
+}
